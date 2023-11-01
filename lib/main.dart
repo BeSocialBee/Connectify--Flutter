@@ -199,7 +199,7 @@ class MyCardsPage extends StatelessWidget {
     CardData(
       name: "David Beckham",
       imageUrl: "images/card1.png", // Put the actual image path
-      description: "A football legend from UK",
+      description: "A football legend from UK!",
       rarity: "Legendary",
       value: 1000,
     ),
